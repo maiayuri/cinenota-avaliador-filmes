@@ -1,0 +1,16 @@
+{
+  "name": "cinenota-avaliador-filmes",
+  "version": "1.0.0",
+  "description": "Exercício 5 - Lógica e Programação com vetores: avaliação de filmes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha \"test/**/*.test.js\""
+  },
+  "keywords": ["javascript", "nodejs", "vetores", "testes", "mocha", "chai"],
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "chai": "^4.5.0",
+    "mocha": "^10.8.2"
+  }
+}
